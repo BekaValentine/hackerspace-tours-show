@@ -34,8 +34,9 @@ Episode Template
 The episode template is the structure of an episode. It's meant to be used to design a script that can be applied to the footage types to build up an episode automatically.
 
 1. Teaser
-  - "Today we're visiting Noisebridge, located at 2169 Mission St in the Mission District of San Francisco, CA! Started in 2007 as a circle of friends, it's one of the oldest hackerspaces in the US! Let's go inside!"
+  - "Today we're visiting Noisebridge, located at 2169 Mission St in the Mission District of San Francisco, CA! Started in 2007 as a circle of friends, it's one of the oldest hackerspaces in the US, and is open to the public every day during daytime hours! Let's go inside!"
   - Simple footage of the host outside the main entrance
+  - Be sure to talk about who can use the space
 2. Intro
   - Generic show intro / season specific style
   - Hackerspace specific map zoom intro
