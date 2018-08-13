@@ -9,6 +9,8 @@ Things to do in videos: physical tour, talk to people about the space and what m
 Name Ideas
 ==========
 
+Hack the Planet
+
 20 GOTO 10
 
 Hello, World!
@@ -22,6 +24,8 @@ Hackish
 localhost
 
 127.0.0.1
+ 
+hack.local
 
 Meatspace
 
@@ -30,6 +34,12 @@ Space Leak
 $HOME
 
 $HACKERSPACE
+
+/dev/random
+
+/dev/hack(s)
+
+ls -lhA ~/hackerspaces
 
 
 Hackerspace Tour Style
