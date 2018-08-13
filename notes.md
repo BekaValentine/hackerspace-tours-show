@@ -115,6 +115,7 @@ Footage Types
     - Normal speed
     - Time lapse
     - Slowmo
+    - Drone footage
 
 
 
