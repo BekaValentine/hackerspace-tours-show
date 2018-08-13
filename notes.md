@@ -10,15 +10,25 @@ Name Ideas
 ==========
 
 20 GOTO 10
+
 Hello, World!
+
 HACK.space
+
 which hackerspace
+
 Hackish
+
 localhost
+
 127.0.0.1
+
 Meatspace
+
 Space Leak
+
 $HOME
+
 $HACKERSPACE
 
 
